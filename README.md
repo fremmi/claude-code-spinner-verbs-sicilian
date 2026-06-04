@@ -132,6 +132,7 @@ E poi le frasi idiomatiche — si commentano da sole:
 - **Cca ci vole bellu cafè** — "Qui ci vuole il caffè"
 - **Acchianannu l'Etna** — "Salendo l'Etna"
 - **Sciugghiennu stu ruppu** — "Sciogliendo questa matassa/rogna"
+- **Spannannu tochen a muzzu** — "Sprecando token in modo insensato"
 
 ---
 
